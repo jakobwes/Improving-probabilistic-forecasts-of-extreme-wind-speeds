@@ -12,4 +12,3 @@ Packages required:
 - matplotlib
 - seaborn
 - tqdm
-- Only for section 5.3 of the paper: pytorch
